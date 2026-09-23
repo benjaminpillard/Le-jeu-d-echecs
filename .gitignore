@@ -1,5 +1,24 @@
+# Environnements virtuels
 venv/
+.venv/
+
+# Variables d'environnement
 .env
+.env.*
+
+# Base de données
 db.sqlite3
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
